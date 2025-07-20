@@ -22,4 +22,4 @@ As a Data Analyst I have conducted a comprehensive analysis for hotel industry u
 ## Skills Learned
 - **Data Analysis using Python** – Strengthened skills in data cleaning, transformation, and visualization.
 - **Data Visualization** – Utilized Matplotlib to create insightful charts and graphs.
-- **Pandas Fundamentals** – Worked with DataFrames, applied groupby functions, concatenated and merged datasets, handled missing values, and read CSV files efficiently.
+- **Pandas** – Worked with DataFrames, applied groupby functions, concatenated and merged datasets, handled missing values, and read CSV files efficiently.
